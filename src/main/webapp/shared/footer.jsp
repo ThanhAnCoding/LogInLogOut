@@ -1,5 +1,5 @@
  <footer class="container">
-            <strong>&copy; 2023 - NguyenPhuocDuy - 2321160076 </strong>
+            <strong>&copy; 2023 - NguyenThanhAn - 2321160022 </strong>
         </footer>
 
         <!-- Optional JavaScript -->
